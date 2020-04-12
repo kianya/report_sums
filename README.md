@@ -1,2 +1,2 @@
-# text_sums
-Text summarization for sport articles
+# report_sums
+Report summarization for sport articles
