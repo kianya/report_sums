@@ -11,5 +11,5 @@ Report summarization for sport articles
 # Learning process
 Суммаризация неочищенного датасета на стандартной модели lightconv_iwslt_de_en
 
-``cd text_summarization``. 
-``bash broad-news-sums-test.sh``
+``cd text_summarization``  
+``bash broad-news-sums-test.sh`` 
